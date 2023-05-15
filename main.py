@@ -7,7 +7,7 @@ import zipfile
 from colorama import Fore, Style
 
 package = "com.TrassGames.GodsOfGravity"
-version = "0.0.0"
+version = "1.0.0"
 # just makes my life easier
 
 os.system("cls")
